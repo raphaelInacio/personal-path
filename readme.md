@@ -41,7 +41,7 @@ Com o objetivo de consolidar os meus conhecimentos em engenharia de software e m
 
 
 ## Programação
- - [X] [Dev Eficiente - Treinamento](https://jornada-dev-eficiente.klickmembers.com.br/login?redirect=%2F)
+ - [ ] [Dev Eficiente - Treinamento](https://jornada-dev-eficiente.klickmembers.com.br/login?redirect=%2F)
  - [X] [The Way to Software Mastery - Treinamento](https://dojo.softwarezen.me/users/sign_in)
  - [X] [Estrutura de Dados: Computação na prática com Java - Alura](https://cursos.alura.com.br/course/estrutura-de-dados)
  - [X] [Algoritmos I: Selection, Insertion e Introdução a Análise - Alura](https://cursos.alura.com.br/course/projetos-de-algoritmos-1)
