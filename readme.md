@@ -40,20 +40,22 @@ Com o objetivo de consolidar os meus conhecimentos em engenharia de software e m
 
 
 
-## Junho - Firmando as Raizes da programação
- - [Dev Eficiente - Treinamento](https://jornada-dev-eficiente.klickmembers.com.br/login?redirect=%2F)
- - [The Way to Software Mastery - Treinamento](https://dojo.softwarezen.me/users/sign_in)
- - [Estrutura de Dados: Computação na prática com Java - Alura](https://cursos.alura.com.br/course/estrutura-de-dados)
- - [Algoritmos I: Selection, Insertion e Introdução a Análise - Alura](https://cursos.alura.com.br/course/projetos-de-algoritmos-1)
- - [Algoritmos II: MergeSort, QuickSort, Busca Binária e Análise de Algoritmo - Alura ](https://cursos.alura.com.br/course/projetos-de-algoritmos-2)
- - [Arquitetura Limpa - Livro](https://cursos.alura.com.br/course/projetos-de-algoritmos-2)
- - [Microsserviços: Padrões de projeto](https://cursos.alura.com.br/course/microsservicos-padroes-projeto)
- - [Boas Praticas Java - Alura](https://cursos.alura.com.br/category/programacao/boas-praticas-em-java)
- - [Basico Java - Alura](https://cursos.alura.com.br/category/programacao/java)
+## Programação
+ - [X] [Dev Eficiente - Treinamento](https://jornada-dev-eficiente.klickmembers.com.br/login?redirect=%2F)
+ - [X] [The Way to Software Mastery - Treinamento](https://dojo.softwarezen.me/users/sign_in)
+ - [X] [Estrutura de Dados: Computação na prática com Java - Alura](https://cursos.alura.com.br/course/estrutura-de-dados)
+ - [X] [Algoritmos I: Selection, Insertion e Introdução a Análise - Alura](https://cursos.alura.com.br/course/projetos-de-algoritmos-1)
+ - [ ] [Algoritmos II: MergeSort, QuickSort, Busca Binária e Análise de Algoritmo - Alura ](https://cursos.alura.com.br/course/projetos-de-algoritmos-2)
+ - [ ] [Design Patterns em Java I: Introdução às boas práticas de programação](https://cursos.alura.com.br/formacao-arquitetura-design-projetos-java)
+ - [ ] [Design Patterns em Java II: Avançando nas boas práticas de programação](https://cursos.alura.com.br/course/avancando-design-patterns-java)
 
 
-## Julho - As Bases da Arquitetura de Software
-## Agosto - Arquitetura de Software Avançada 
-## Setembro - Testes de Software
-## Outubro  - Devops e automação
-## Dezembro  - Cloud e Escalabilidade
+## Arquitetura de Software
+ - [X] [Java e Clean Architecture: Descomplicando arquitetura de software](https://cursos.alura.com.br/course/java-clean-architecture)
+ - [ ] [Java e Domain Driven Design: Apresentando os conceitos](https://cursos.alura.com.br/course/java-domain-driven-design-conceitos)
+ - [ ] [Microsserviços: Padrões de projeto](https://cursos.alura.com.br/course/microsservicos-padroes-projeto)
+
+
+## Testes de Software
+## Devops e automação
+## Cloud e Escalabilidade
