@@ -2,8 +2,6 @@ import org.jetbrains.annotations.NotNull;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class OrdenaProdutosTest {
 
     @Test
@@ -11,7 +9,7 @@ class OrdenaProdutosTest {
 
         OrdenaProdutos ordenaProdutos = new OrdenaProdutos(carregarLista());
 
-        ordenaProdutos.ordenar();
+        ordenaProdutos.selectionSort();
 
         double menorPrecoDaLista = ordenaProdutos.buscarMaisBarato();
 
@@ -24,9 +22,7 @@ class OrdenaProdutosTest {
     void buscarMaisCaro() {
         OrdenaProdutos ordenaProdutos = new OrdenaProdutos(carregarLista());
 
-        ordenaProdutos.imprimir();
-
-        ordenaProdutos.ordenar();
+        ordenaProdutos.selectionSort();
 
         double maiorPreco = ordenaProdutos.buscarMaisCaro();
 
@@ -52,12 +48,37 @@ class OrdenaProdutosTest {
     void ordenarEntrePosicoes() {
         OrdenaProdutos ordenaProdutos = new OrdenaProdutos(carregarLista());
 
-        ordenaProdutos.imprimir();
-
         ordenaProdutos.ordenarEntrePosicoes();
 
         ordenaProdutos.imprimir();
 
+        verificaOrdenacao(ordenaProdutos);
+    }
+
+    @Test
+    void insertionSort() {
+        OrdenaProdutos ordenaProdutos = new OrdenaProdutos(carregarLista());
+
+        ordenaProdutos.insertionSort();
+
+        ordenaProdutos.imprimir();
+
+        verificaOrdenacao(ordenaProdutos);
+    }
+
+    @Test
+    void mergeSort() {
+        OrdenaProdutos ordenaProdutos = new OrdenaProdutos(carregarLista());
+
+        ordenaProdutos.mergeSort();
+
+        ordenaProdutos.imprimir();
+
+        verificaOrdenacao(ordenaProdutos);
+    }
+
+
+    private static void verificaOrdenacao(OrdenaProdutos ordenaProdutos) {
         double maiorPreco = ordenaProdutos.buscarMaisCaro();
 
         Assertions.assertEquals(1000000, maiorPreco);
@@ -67,4 +88,30 @@ class OrdenaProdutosTest {
         Assertions.assertEquals(16000, menorPrecoDaLista);
     }
 
+
+    @Test
+    void testInsertionSort() {
+        OrdenaProdutos ordenaProdutos = new OrdenaProdutos(carregarLista());
+
+        ordenaProdutos.insertionSort(ordenaProdutos.getProdutos(), ordenaProdutos.getTamanho());
+
+        ordenaProdutos.imprimir();
+
+        verificaOrdenacao(ordenaProdutos);
+    }
+
+    @Test
+    void selectionSort() {
+        OrdenaProdutos ordenaProdutos = new OrdenaProdutos(carregarLista());
+
+        ordenaProdutos.selectionSort(ordenaProdutos.getProdutos(), ordenaProdutos.getTamanho());
+
+        ordenaProdutos.imprimir();
+
+        verificaOrdenacao(ordenaProdutos);
+    }
+
+    @Test
+    void imprimir() {
+    }
 }

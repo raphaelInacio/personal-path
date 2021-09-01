@@ -16,7 +16,7 @@ public class BuscadorDePrecos {
 
     public int acharMenorEntre(int inicio, int termino) {
         int menorPreco = inicio;
-        for (int atual = inicio; atual < termino; atual++)
+        for (int atual = inicio; atual <= termino; atual++)
             if (produtos[atual].getPreco() < produtos[menorPreco].getPreco()) menorPreco = atual;
         return menorPreco;
     }
