@@ -1,10 +1,10 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import strategy.Orcamento;
+import strategy.problema.CalculadoraDeImpostos;
+import strategy.problema.TipoImpostoEnum;
 
 import java.math.BigDecimal;
-import java.text.Bidi;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class CalculadoraDeImpostosTest {
 

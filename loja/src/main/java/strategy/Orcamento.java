@@ -1,3 +1,6 @@
+package strategy
+        ;
+
 import java.math.BigDecimal;
 
 public class Orcamento {
