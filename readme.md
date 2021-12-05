@@ -53,7 +53,8 @@ Com o objetivo de consolidar os meus conhecimentos em engenharia de software e m
 ## Arquitetura de Software
  - [X] [Java e Clean Architecture: Descomplicando arquitetura de software](https://cursos.alura.com.br/course/java-clean-architecture)
  - [ ] [Java e Domain Driven Design: Apresentando os conceitos](https://cursos.alura.com.br/course/java-domain-driven-design-conceitos)
- - [ ] [Microsserviços: Padrões de projeto](https://cursos.alura.com.br/course/microsservicos-padroes-projeto)
+ - [X] [Microsserviços: Padrões de projeto](https://cursos.alura.com.br/course/microsservicos-padroes-projeto)
+ - [X] Clean Code e Clean Architecture (https://app.branas.io/public/products/05c65ce5-8d61-456b-a743-9cc34c8503c7)
 
 
 ## Testes de Software
