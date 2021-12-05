@@ -54,9 +54,27 @@ Com o objetivo de consolidar os meus conhecimentos em engenharia de software e m
  - [X] [Java e Clean Architecture: Descomplicando arquitetura de software](https://cursos.alura.com.br/course/java-clean-architecture)
  - [ ] [Java e Domain Driven Design: Apresentando os conceitos](https://cursos.alura.com.br/course/java-domain-driven-design-conceitos)
  - [X] [Microsserviços: Padrões de projeto](https://cursos.alura.com.br/course/microsservicos-padroes-projeto)
- - [X] Clean Code e Clean Architecture (https://app.branas.io/public/products/05c65ce5-8d61-456b-a743-9cc34c8503c7)
+ - [X] Clean Code e Clean Architecture(https://app.branas.io/public/products/05c65ce5-8d61-456b-a743-9cc34c8503c7)
 
 
 ## Testes de Software
 ## Devops e automação
 ## Cloud e Escalabilidade
+
+
+## Conclusão da rotina
+
+Não consegui nem de longe realizar todos os estudos que desajava mas concerteza finalizo esse ciclo melhor do que antes.
+
+Uma coisa que senti é que manter a rotina de estudos e o foco nos temas nem sempre é fácil, me peguei diversas vezes indo buscar outros temas ao invés do plano 
+que tinha sido proposto no inicio da jornada.
+
+Durante a jornada participei de alguns processos seletivos alguns me sai bem outros nem tanto, mas foi um boa forma de avaliar os conhecimentos que estavam solidos e
+aqueles que ainda necessitam de treino
+
+Em outubro consegui a promoção na empresa na qual trabalho então de alguma forma consegui de alguma forma avaliar o meu progresso.
+
+Essa trilha vai ser empurrada para o próximo ano e talvez para os rpróximos.
+
+
+
